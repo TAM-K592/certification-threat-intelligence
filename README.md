@@ -1,2 +1,2 @@
-# certification-threat-intelligence
+# Certification Threat Intelligence
  Study for threat intelligence certification

@@ -8,7 +8,7 @@ Certified Threat Intelligence Analyst (C|TIA) is a training and credentialing pr
  
  ## Who is this certification for
  
-__Target Audience__
+**Target Audience**
 
 * Ethical Hackers
 * Security Practitioners, Engineers, Analysts, Specialist, Architects, Managers

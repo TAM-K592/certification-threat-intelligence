@@ -27,7 +27,7 @@ A list of **Threat Intelligence** resources.
 
 ## Education
 * [Certified Cyber Threat Intelligence Analyst - Udemy](https://www.udemy.com/cybersecurity-threat-intelligence-researcher/)
-* [Cyber Threat Intelligence Intro - Cybrary](https://www.cybrary.it/video/introduction-11/)
+* [Cyber Threat Intelligence Intro - Cybrary](https://www.cybrary.it/course/intro-cyber-threat-intelligence/)
 
 ## Notable Tools
 * [Principles Of Threat Intelligence](https://www.gartner.com/imagesrv/media-products/pdf/webroot/issue1_webroot.pdf)
